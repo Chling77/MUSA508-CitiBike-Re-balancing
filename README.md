@@ -1,5 +1,5 @@
 # MUSA508-CitiBike-Re-balancing
-## Multiple predictive models for real-time train delay predictions up to 3 hours in advance, integrating spatial autocorrelation, serial, and time lag effects.
+## Predicting space/time demand for bike share pickups in New York City.
 
 Bike share is a dock-based sharing system, which is also a sustainable and convenient transportation option. The system can provide access to bikes for short-term use, ranging from several minutes to hours. However, the most difficult operational problems is the need to re-balance bikes across the network. As bike share is not useful if a dock has no bikes to pick up, nor if there are no opening docking spaces to deposit. Therefore, the re-balancing is the practice of anticipating bike share demand for all docks at all times and manually redistributing bikes to ensure a bike or a docking space is available when needed.
 
